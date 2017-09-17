@@ -1,0 +1,6 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_01\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_01\HolaMundo\bin\Debug\HolaMundo.exe
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_01\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_01\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_01\HolaMundo\obj\Debug\HolaMundo.exe
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_01\HolaMundo\obj\Debug\HolaMundo.pdb

@@ -1,0 +1,7 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos.tests\bin\Debug\EstructurasDatos.tests.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos.tests\bin\Debug\EstructurasDatos.tests.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos.tests\bin\Debug\EstructurasDatos.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos.tests\bin\Debug\EstructurasDatos.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos.tests\obj\Debug\EstructurasDatos.tests.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos.tests\obj\Debug\EstructurasDatos.tests.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos.tests\obj\Debug\EstructurasDatos.tests.pdb

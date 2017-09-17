@@ -1,0 +1,9 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\obj\Debug\ImplementacionXML.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\bin\Debug\ImplementacionXML.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\bin\Debug\ImplementacionXML.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\bin\Debug\Practica_09.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\bin\Debug\Principal.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\bin\Debug\Practica_09.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\bin\Debug\Principal.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\obj\Debug\ImplementacionXML.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_09\ImplementacionXML\obj\Debug\ImplementacionXML.pdb

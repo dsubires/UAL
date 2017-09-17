@@ -1,0 +1,7 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoUnitTestProject\bin\Debug\BingoUnitTestProject.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoUnitTestProject\bin\Debug\BingoUnitTestProject.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoUnitTestProject\bin\Debug\BingoClassLibrary.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoUnitTestProject\bin\Debug\BingoClassLibrary.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoUnitTestProject\obj\Debug\BingoUnitTestProject.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoUnitTestProject\obj\Debug\BingoUnitTestProject.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoUnitTestProject\obj\Debug\BingoUnitTestProject.pdb

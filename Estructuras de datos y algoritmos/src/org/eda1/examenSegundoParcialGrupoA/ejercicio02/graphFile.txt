@@ -1,0 +1,13 @@
+0
+4
+Pueblo01 28
+Pueblo02 12
+Pueblo03 24
+Pueblo04 8
+6
+Pueblo01 Pueblo02 7
+Pueblo01 Pueblo03 11
+Pueblo01 Pueblo04 4
+Pueblo02 Pueblo03 5
+Pueblo02 Pueblo04 12
+Pueblo03 Pueblo04 8

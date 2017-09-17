@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecorridoSecuencia", "RecorridoSecuencia\RecorridoSecuencia.csproj", "{1A70FED7-A0B8-4A6D-B793-D969AA83D882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecorridoSecuenciaTest", "RecorridoSecuenciaTest\RecorridoSecuenciaTest.csproj", "{AB2D4147-F6FA-41C5-8650-582C52D351E3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2014-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RecorridoSecuencia\\RecorridoSecuencia.csproj
+		SccProjectName1 = RecorridoSecuencia
+		SccLocalPath1 = RecorridoSecuencia
+		SccProjectUniqueName2 = RecorridoSecuenciaTest\\RecorridoSecuenciaTest.csproj
+		SccProjectName2 = RecorridoSecuenciaTest
+		SccLocalPath2 = RecorridoSecuenciaTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A70FED7-A0B8-4A6D-B793-D969AA83D882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A70FED7-A0B8-4A6D-B793-D969AA83D882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A70FED7-A0B8-4A6D-B793-D969AA83D882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A70FED7-A0B8-4A6D-B793-D969AA83D882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2D4147-F6FA-41C5-8650-582C52D351E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2D4147-F6FA-41C5-8650-582C52D351E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2D4147-F6FA-41C5-8650-582C52D351E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2D4147-F6FA-41C5-8650-582C52D351E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

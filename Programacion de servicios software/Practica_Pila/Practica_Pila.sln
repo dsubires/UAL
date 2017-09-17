@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasDatos", "EstructurasDatos\EstructurasDatos.csproj", "{82993C90-5090-40F2-A4D9-258144E4AF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasDatos.Tests", "EstructurasDatos.tests\EstructurasDatos.Tests.csproj", "{4EDDEE03-EB6B-42B6-A098-E31CB7D0DE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAritmetica", "EAritmetica\EAritmetica.csproj", "{B19E5321-66DF-49D7-93CB-58CAFF259E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAritmetica.Tests", "UnitTestProject1\EAritmetica.Tests.csproj", "{66CBD2A8-8324-4800-B75B-F478C4877F16}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2014-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EAritmetica\\EAritmetica.csproj
+		SccProjectName1 = EAritmetica
+		SccLocalPath1 = EAritmetica
+		SccProjectUniqueName2 = EstructurasDatos.tests\\EstructurasDatos.Tests.csproj
+		SccProjectName2 = EstructurasDatos.tests
+		SccLocalPath2 = EstructurasDatos.tests
+		SccProjectUniqueName3 = EstructurasDatos\\EstructurasDatos.csproj
+		SccProjectName3 = EstructurasDatos
+		SccLocalPath3 = EstructurasDatos
+		SccProjectUniqueName4 = UnitTestProject1\\EAritmetica.Tests.csproj
+		SccProjectName4 = UnitTestProject1
+		SccLocalPath4 = UnitTestProject1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82993C90-5090-40F2-A4D9-258144E4AF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82993C90-5090-40F2-A4D9-258144E4AF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82993C90-5090-40F2-A4D9-258144E4AF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82993C90-5090-40F2-A4D9-258144E4AF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDDEE03-EB6B-42B6-A098-E31CB7D0DE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDDEE03-EB6B-42B6-A098-E31CB7D0DE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDDEE03-EB6B-42B6-A098-E31CB7D0DE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDDEE03-EB6B-42B6-A098-E31CB7D0DE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19E5321-66DF-49D7-93CB-58CAFF259E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19E5321-66DF-49D7-93CB-58CAFF259E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19E5321-66DF-49D7-93CB-58CAFF259E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19E5321-66DF-49D7-93CB-58CAFF259E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CBD2A8-8324-4800-B75B-F478C4877F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CBD2A8-8324-4800-B75B-F478C4877F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CBD2A8-8324-4800-B75B-F478C4877F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CBD2A8-8324-4800-B75B-F478C4877F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

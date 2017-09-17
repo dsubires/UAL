@@ -1,0 +1,81 @@
+MEDICION 1:
+Tiempo (ns): 1319086
+Tiempo (ns): 3570
+Tiempo (ns): 2677
+
+ 
+MEDICION 2:
+Tiempo (ns): 1342290
+Tiempo (ns): 3570
+Tiempo (ns): 3570
+
+ 
+MEDICION 3:
+Tiempo (ns): 1469468
+Tiempo (ns): 3570
+Tiempo (ns): 3123
+
+ 
+MEDICION 4:
+Tiempo (ns): 1364156
+Tiempo (ns): 3123
+Tiempo (ns): 2678
+
+ 
+MEDICION 5:
+Tiempo (ns): 1375311
+Tiempo (ns): 3123
+Tiempo (ns): 3570
+
+ 
+MEDICION 6:
+Tiempo (ns): 1531496
+Tiempo (ns): 3570
+Tiempo (ns): 2678
+
+ 
+MEDICION 7:
+Tiempo (ns): 1575673
+Tiempo (ns): 3124
+Tiempo (ns): 4016
+
+ 
+MEDICION 8:
+Tiempo (ns): 1498028
+Tiempo (ns): 3124
+Tiempo (ns): 3123
+
+ 
+MEDICION 9:
+Tiempo (ns): 1427075
+Tiempo (ns): 3124
+Tiempo (ns): 3124
+
+ 
+MEDICION 10:
+Tiempo (ns): 1486425
+Tiempo (ns): 3570
+Tiempo (ns): 3123
+
+ 
+Nº DE INTERCAMBIADORES: 
+73680 
+
+MANOMETROS DEFECTUOSOS: 
+
+
+INTERCAMBIADORES CON FUGA: 
+
+
+TRAMOS CON FUGA: 
+
+
+TIEMPO MEDIO:
+1438900
+
+TIEMPO MEDIO MEJORADO:
+3346
+
+TIEMPO MEDIO GREEDY:
+3346
+

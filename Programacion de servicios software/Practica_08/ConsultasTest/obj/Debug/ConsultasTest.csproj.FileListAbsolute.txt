@@ -1,0 +1,7 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_08\ConsultasTest\bin\Debug\ConsultasTest.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_08\ConsultasTest\bin\Debug\ConsultasTest.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_08\ConsultasTest\bin\Debug\Model.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_08\ConsultasTest\bin\Debug\Model.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_08\ConsultasTest\obj\Debug\ConsultasTest.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_08\ConsultasTest\obj\Debug\ConsultasTest.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_08\ConsultasTest\obj\Debug\ConsultasTest.pdb

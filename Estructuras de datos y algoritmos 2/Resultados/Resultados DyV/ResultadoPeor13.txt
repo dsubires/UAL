@@ -1,0 +1,68 @@
+MEDICION 1:
+Tiempo (ns): 1819328
+Tiempo (ns): 2014782
+
+ 
+MEDICION 2:
+Tiempo (ns): 1837178
+Tiempo (ns): 2410152
+
+ 
+MEDICION 3:
+Tiempo (ns): 2044234
+Tiempo (ns): 2200419
+
+ 
+MEDICION 4:
+Tiempo (ns): 1959894
+Tiempo (ns): 2266017
+
+ 
+MEDICION 5:
+Tiempo (ns): 2001841
+Tiempo (ns): 2028169
+
+ 
+MEDICION 6:
+Tiempo (ns): 3708716
+Tiempo (ns): 2177660
+
+ 
+MEDICION 7:
+Tiempo (ns): 1968373
+Tiempo (ns): 2057175
+
+ 
+MEDICION 8:
+Tiempo (ns): 1998271
+Tiempo (ns): 2029508
+
+ 
+MEDICION 9:
+Tiempo (ns): 3673464
+Tiempo (ns): 3910418
+
+ 
+MEDICION 10:
+Tiempo (ns): 1942491
+Tiempo (ns): 2173198
+
+ 
+Nº DE INTERCAMBIADORES: 
+54960 
+
+MANOMETROS DEFECTUOSOS: 
+0
+
+INTERCAMBIADORES CON FUGA: 
+54960
+
+TRAMOS CON FUGA: 
+54961
+
+TIEMPO MEDIO:
+2295379
+
+TIEMPO MEDIO MEJORADO:
+2326749
+

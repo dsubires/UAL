@@ -1,0 +1,878 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TiroAlBlancoModel.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:dsp086.Practica_05.Fakes.ShimAnguloMisilException">
+            <summary>Tipo de correcciones de compatibilidad (shim) de dsp086.Practica_05.AnguloMisilException</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimAnguloMisilException.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimAnguloMisilException.#ctor(dsp086.Practica_05.AnguloMisilException)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimAnguloMisilException.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimAnguloMisilException.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimAnguloMisilException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimAnguloMisilException.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimAnguloMisilException.Constructor">
+            <summary>Establecer el shim de AnguloMisilException.AnguloMisilException()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimAnguloMisilException.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimMisilBalistico">
+            <summary>Tipo de correcciones de compatibilidad (shim) de dsp086.Practica_05.MisilBalistico</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimMisilBalistico.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimMisilBalistico.#ctor(dsp086.Practica_05.MisilBalistico)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimMisilBalistico.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimMisilBalistico.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimMisilBalistico.Bind(dsp086.Practica_05.IMisil)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AlcanceGet">
+            <summary>Establecer el shim de MisilBalistico.get_Alcance()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AlcanceSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_Alcance(Double value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AnguloSalidaGet">
+            <summary>Establecer el shim de MisilBalistico.get_AnguloSalida()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AnguloSalidaSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_AnguloSalida(Double value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.ConstructorDoubleDouble">
+            <summary>Establecer el shim de MisilBalistico.MisilBalistico(Double Velocidad, Double Angulo)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.ConstructorDoubleDoubleString">
+            <summary>Establecer el shim de MisilBalistico.MisilBalistico(Double Velocidad, Double Angulo, String tipom)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.TipoMisilGet">
+            <summary>Establecer el shim de MisilBalistico.get_TipoMisil()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.TipoMisilSetString">
+            <summary>Establecer el shim de MisilBalistico.set_TipoMisil(String value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.VelocidadInicialGet">
+            <summary>Establecer el shim de MisilBalistico.get_VelocidadInicial()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.VelocidadInicialSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_VelocidadInicial(Double value)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances.AlcanceGet">
+            <summary>Establecer el shim de MisilBalistico.get_Alcance()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances.AlcanceSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_Alcance(Double value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances.AnguloSalidaGet">
+            <summary>Establecer el shim de MisilBalistico.get_AnguloSalida()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances.AnguloSalidaSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_AnguloSalida(Double value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances.TipoMisilGet">
+            <summary>Establecer el shim de MisilBalistico.get_TipoMisil()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances.TipoMisilSetString">
+            <summary>Establecer el shim de MisilBalistico.set_TipoMisil(String value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances.VelocidadInicialGet">
+            <summary>Establecer el shim de MisilBalistico.get_VelocidadInicial()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimMisilBalistico.AllInstances.VelocidadInicialSetDouble">
+            <summary>Establecer el shim de MisilBalistico.set_VelocidadInicial(Double value)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimObjetivo">
+            <summary>Tipo de correcciones de compatibilidad (shim) de dsp086.Practica_05.Objetivo</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivo.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivo.#ctor(dsp086.Practica_05.Objetivo)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivo.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivo.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivo.Bind(dsp086.Practica_05.IObjetivo)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimObjetivo.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimObjetivo.ConstructorDouble">
+            <summary>Establecer el shim de Objetivo.Objetivo(Double distancia)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimObjetivo.DistanciaGet">
+            <summary>Establecer el shim de Objetivo.get_Distancia()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimObjetivo.DistanciaSetDouble">
+            <summary>Establecer el shim de Objetivo.set_Distancia(Double value)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimObjetivo.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimObjetivo.AllInstances.DistanciaGet">
+            <summary>Establecer el shim de Objetivo.get_Distancia()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimObjetivo.AllInstances.DistanciaSetDouble">
+            <summary>Establecer el shim de Objetivo.set_Distancia(Double value)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException">
+            <summary>Tipo de correcciones de compatibilidad (shim) de dsp086.Practica_05.ObjetivoDistanciaException</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException.#ctor(dsp086.Practica_05.ObjetivoDistanciaException)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException.Constructor">
+            <summary>Establecer el shim de ObjetivoDistanciaException.ObjetivoDistanciaException()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimObjetivoDistanciaException.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimPartida">
+            <summary>Tipo de correcciones de compatibilidad (shim) de dsp086.Practica_05.Partida</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimPartida.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimPartida.#ctor(dsp086.Practica_05.Partida)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimPartida.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimPartida.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimPartida.Bind(dsp086.Practica_05.IPartida)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.Constructor">
+            <summary>Establecer el shim de Partida.Partida()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.ConstructorUsuario">
+            <summary>Establecer el shim de Partida.Partida(Usuario u)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.DispararMisilIMisil">
+            <summary>Establecer el shim de Partida.DispararMisil(IMisil m)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.DistanciaRelativaImpactoGet">
+            <summary>Establecer el shim de Partida.get_DistanciaRelativaImpacto()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.DistanciaRelativaImpactoSetDouble">
+            <summary>Establecer el shim de Partida.set_DistanciaRelativaImpacto(Double value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.NumDisparosGet">
+            <summary>Establecer el shim de Partida.get_NumDisparos()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.NumDisparosSetInt32">
+            <summary>Establecer el shim de Partida.set_NumDisparos(Int32 value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.ObjetivoAlcanzadoGet">
+            <summary>Establecer el shim de Partida.get_ObjetivoAlcanzado()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.ObjetivoAlcanzadoSetBoolean">
+            <summary>Establecer el shim de Partida.set_ObjetivoAlcanzado(Boolean value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.ObjetivoGet">
+            <summary>Establecer el shim de Partida.get_Objetivo()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.ObjetivoSetIObjetivo">
+            <summary>Establecer el shim de Partida.set_Objetivo(IObjetivo value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.UsuarioGet">
+            <summary>Establecer el shim de Partida.get_Usuario()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.UsuarioSetIUsuario">
+            <summary>Establecer el shim de Partida.set_Usuario(IUsuario value)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimPartida.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.DispararMisilIMisil">
+            <summary>Establecer el shim de Partida.DispararMisil(IMisil m)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.DistanciaRelativaImpactoGet">
+            <summary>Establecer el shim de Partida.get_DistanciaRelativaImpacto()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.DistanciaRelativaImpactoSetDouble">
+            <summary>Establecer el shim de Partida.set_DistanciaRelativaImpacto(Double value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.NumDisparosGet">
+            <summary>Establecer el shim de Partida.get_NumDisparos()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.NumDisparosSetInt32">
+            <summary>Establecer el shim de Partida.set_NumDisparos(Int32 value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.ObjetivoAlcanzadoGet">
+            <summary>Establecer el shim de Partida.get_ObjetivoAlcanzado()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.ObjetivoAlcanzadoSetBoolean">
+            <summary>Establecer el shim de Partida.set_ObjetivoAlcanzado(Boolean value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.ObjetivoGet">
+            <summary>Establecer el shim de Partida.get_Objetivo()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.ObjetivoSetIObjetivo">
+            <summary>Establecer el shim de Partida.set_Objetivo(IObjetivo value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.UsuarioGet">
+            <summary>Establecer el shim de Partida.get_Usuario()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimPartida.AllInstances.UsuarioSetIUsuario">
+            <summary>Establecer el shim de Partida.set_Usuario(IUsuario value)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory">
+            <summary>Tipo de correcciones de compatibilidad (shim) de dsp086.Practica_05.TiroAlBlancoFactory</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.#ctor(dsp086.Practica_05.TiroAlBlancoFactory)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.Constructor">
+            <summary>Establecer el shim de TiroAlBlancoFactory.TiroAlBlancoFactory()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.CrearMisilDoubleDouble">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearMisil(Double Velocidad, Double Angulo)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.CrearObjetivoFijoDouble">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearObjetivoFijo(Double dist)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.CrearPartida">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearPartida()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.CrearUsuario">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearUsuario()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.CrearUsuarioString">
+            <summary>Establecer el shim de TiroAlBlancoFactory.CrearUsuario(String nombre)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimTiroAlBlancoFactory.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimUsuario">
+            <summary>Tipo de correcciones de compatibilidad (shim) de dsp086.Practica_05.Usuario</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimUsuario.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimUsuario.#ctor(dsp086.Practica_05.Usuario)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimUsuario.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimUsuario.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimUsuario.Bind(dsp086.Practica_05.IUsuario)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimUsuario.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimUsuario.Constructor">
+            <summary>Establecer el shim de Usuario.Usuario()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimUsuario.ConstructorString">
+            <summary>Establecer el shim de Usuario.Usuario(String nombre)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimUsuario.UsuarioIdGet">
+            <summary>Establecer el shim de Usuario.get_UsuarioId()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimUsuario.UsuarioIdSetString">
+            <summary>Establecer el shim de Usuario.set_UsuarioId(String value)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimUsuario.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimUsuario.AllInstances.UsuarioIdGet">
+            <summary>Establecer el shim de Usuario.get_UsuarioId()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimUsuario.AllInstances.UsuarioIdSetString">
+            <summary>Establecer el shim de Usuario.set_UsuarioId(String value)</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimVelocidadMisilException">
+            <summary>Tipo de correcciones de compatibilidad (shim) de dsp086.Practica_05.VelocidadMisilException</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimVelocidadMisilException.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimVelocidadMisilException.#ctor(dsp086.Practica_05.VelocidadMisilException)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimVelocidadMisilException.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimVelocidadMisilException.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.ShimVelocidadMisilException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimVelocidadMisilException.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.ShimVelocidadMisilException.Constructor">
+            <summary>Establecer el shim de VelocidadMisilException.VelocidadMisilException()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.ShimVelocidadMisilException.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubAnguloMisilException">
+            <summary>Tipo stub de dsp086.Practica_05.AnguloMisilException</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubAnguloMisilException.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubAnguloMisilException.AttachBackingFieldToHelpLink">
+            <summary>Asocia delegados para emular StubAnguloMisilException.HelpLink como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubAnguloMisilException.AttachBackingFieldToSource">
+            <summary>Asocia delegados para emular StubAnguloMisilException.Source como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.DataGet">
+            <summary>Establecer el stub de Exception.get_Data()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubAnguloMisilException.GetBaseException">
+            <summary>Establecer el stub de Exception.GetBaseException()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.GetBaseException01">
+            <summary>Establecer el stub de Exception.GetBaseException()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubAnguloMisilException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Establecer el stub de Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>Establecer el stub de Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.HelpLinkGet">
+            <summary>Establecer el stub de Exception.get_HelpLink()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.HelpLinkSetString">
+            <summary>Establecer el stub de Exception.set_HelpLink(String value)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubAnguloMisilException.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubAnguloMisilException</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.MessageGet">
+            <summary>Establecer el stub de Exception.get_Message()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.SourceGet">
+            <summary>Establecer el stub de Exception.get_Source()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.SourceSetString">
+            <summary>Establecer el stub de Exception.set_Source(String value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.StackTraceGet">
+            <summary>Establecer el stub de Exception.get_StackTrace()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubAnguloMisilException.ToString">
+            <summary>Establecer el stub de Exception.ToString()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubAnguloMisilException.ToString01">
+            <summary>Establecer el stub de Exception.ToString()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubAnguloMisilException.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubAnguloMisilException.Data">
+            <summary>Establecer el stub de Exception.get_Data()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubAnguloMisilException.HelpLink">
+            <summary>Establecer el stub de Exception.get_HelpLink()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubAnguloMisilException.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubAnguloMisilException.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubAnguloMisilException.Message">
+            <summary>Establecer el stub de Exception.get_Message()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubAnguloMisilException.Source">
+            <summary>Establecer el stub de Exception.get_Source()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubAnguloMisilException.StackTrace">
+            <summary>Establecer el stub de Exception.get_StackTrace()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubIMisil">
+            <summary>Tipo stub de dsp086.Practica_05.IMisil</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIMisil.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIMisil</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIMisil.AlcanceGet">
+            <summary>Establecer el stub de IMisil.get_Alcance()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIMisil.AlcanceSetDouble">
+            <summary>Establecer el stub de IMisil.set_Alcance(Double value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIMisil.AnguloSalidaGet">
+            <summary>Establecer el stub de IMisil.get_AnguloSalida()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIMisil.AnguloSalidaSetDouble">
+            <summary>Establecer el stub de IMisil.set_AnguloSalida(Double value)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIMisil.AttachBackingFieldToAlcance">
+            <summary>Asocia delegados para emular StubIMisil.Alcance como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIMisil.AttachBackingFieldToAnguloSalida">
+            <summary>Asocia delegados para emular StubIMisil.AnguloSalida como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIMisil.AttachBackingFieldToTipoMisil">
+            <summary>Asocia delegados para emular StubIMisil.TipoMisil como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIMisil.AttachBackingFieldToVelocidadInicial">
+            <summary>Asocia delegados para emular StubIMisil.VelocidadInicial como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIMisil.TipoMisilGet">
+            <summary>Establecer el stub de IMisil.get_TipoMisil()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIMisil.TipoMisilSetString">
+            <summary>Establecer el stub de IMisil.set_TipoMisil(String value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIMisil.VelocidadInicialGet">
+            <summary>Establecer el stub de IMisil.get_VelocidadInicial()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIMisil.VelocidadInicialSetDouble">
+            <summary>Establecer el stub de IMisil.set_VelocidadInicial(Double value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIMisil.tabm::dsp086#Practica_05#IMisil#Alcance">
+            <summary>Establecer el stub de IMisil.get_Alcance()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIMisil.tabm::dsp086#Practica_05#IMisil#AnguloSalida">
+            <summary>Establecer el stub de IMisil.get_AnguloSalida()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIMisil.tabm::dsp086#Practica_05#IMisil#TipoMisil">
+            <summary>Establecer el stub de IMisil.get_TipoMisil()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIMisil.tabm::dsp086#Practica_05#IMisil#VelocidadInicial">
+            <summary>Establecer el stub de IMisil.get_VelocidadInicial()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubIObjetivo">
+            <summary>Tipo stub de dsp086.Practica_05.IObjetivo</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIObjetivo.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIObjetivo</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIObjetivo.AttachBackingFieldToDistancia">
+            <summary>Asocia delegados para emular StubIObjetivo.Distancia como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIObjetivo.DistanciaGet">
+            <summary>Establecer el stub de IObjetivo.get_Distancia()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIObjetivo.DistanciaSetDouble">
+            <summary>Establecer el stub de IObjetivo.set_Distancia(Double value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIObjetivo.tabm::dsp086#Practica_05#IObjetivo#Distancia">
+            <summary>Establecer el stub de IObjetivo.get_Distancia()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubIPartida">
+            <summary>Tipo stub de dsp086.Practica_05.IPartida</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIPartida.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIPartida</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIPartida.AttachBackingFieldToDistanciaRelativaImpacto">
+            <summary>Asocia delegados para emular StubIPartida.DistanciaRelativaImpacto como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIPartida.AttachBackingFieldToNumDisparos">
+            <summary>Asocia delegados para emular StubIPartida.NumDisparos como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIPartida.AttachBackingFieldToObjetivo">
+            <summary>Asocia delegados para emular StubIPartida.Objetivo como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIPartida.AttachBackingFieldToObjetivoAlcanzado">
+            <summary>Asocia delegados para emular StubIPartida.ObjetivoAlcanzado como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIPartida.AttachBackingFieldToUsuario">
+            <summary>Asocia delegados para emular StubIPartida.Usuario como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.DispararMisilIMisil">
+            <summary>Establecer el stub de IPartida.DispararMisil(IMisil m)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.DistanciaRelativaImpactoGet">
+            <summary>Establecer el stub de IPartida.get_DistanciaRelativaImpacto()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.DistanciaRelativaImpactoSetDouble">
+            <summary>Establecer el stub de IPartida.set_DistanciaRelativaImpacto(Double value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.NumDisparosGet">
+            <summary>Establecer el stub de IPartida.get_NumDisparos()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.NumDisparosSetInt32">
+            <summary>Establecer el stub de IPartida.set_NumDisparos(Int32 value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.ObjetivoAlcanzadoGet">
+            <summary>Establecer el stub de IPartida.get_ObjetivoAlcanzado()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.ObjetivoAlcanzadoSetBoolean">
+            <summary>Establecer el stub de IPartida.set_ObjetivoAlcanzado(Boolean value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.ObjetivoGet">
+            <summary>Establecer el stub de IPartida.get_Objetivo()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.ObjetivoSetIObjetivo">
+            <summary>Establecer el stub de IPartida.set_Objetivo(IObjetivo value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.UsuarioGet">
+            <summary>Establecer el stub de IPartida.get_Usuario()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIPartida.UsuarioSetIUsuario">
+            <summary>Establecer el stub de IPartida.set_Usuario(IUsuario value)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIPartida.tabm::dsp086#Practica_05#IPartida#DispararMisil(dsp086.Practica_05.IMisil)">
+            <summary>Establecer el stub de IPartida.DispararMisil(IMisil m)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIPartida.tabm::dsp086#Practica_05#IPartida#DistanciaRelativaImpacto">
+            <summary>Establecer el stub de IPartida.get_DistanciaRelativaImpacto()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIPartida.tabm::dsp086#Practica_05#IPartida#NumDisparos">
+            <summary>Establecer el stub de IPartida.get_NumDisparos()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIPartida.tabm::dsp086#Practica_05#IPartida#Objetivo">
+            <summary>Establecer el stub de IPartida.get_Objetivo()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIPartida.tabm::dsp086#Practica_05#IPartida#ObjetivoAlcanzado">
+            <summary>Establecer el stub de IPartida.get_ObjetivoAlcanzado()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIPartida.tabm::dsp086#Practica_05#IPartida#Usuario">
+            <summary>Establecer el stub de IPartida.get_Usuario()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubIUsuario">
+            <summary>Tipo stub de dsp086.Practica_05.IUsuario</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIUsuario.#ctor">
+            <summary>Inicializa una nueva instancia de type StubIUsuario</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubIUsuario.AttachBackingFieldToUsuarioId">
+            <summary>Asocia delegados para emular StubIUsuario.UsuarioId como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIUsuario.UsuarioIdGet">
+            <summary>Establecer el stub de IUsuario.get_UsuarioId()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubIUsuario.UsuarioIdSetString">
+            <summary>Establecer el stub de IUsuario.set_UsuarioId(String value)</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubIUsuario.tabm::dsp086#Practica_05#IUsuario#UsuarioId">
+            <summary>Establecer el stub de IUsuario.get_UsuarioId()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubMisilBalistico">
+            <summary>Tipo stub de dsp086.Practica_05.MisilBalistico</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubMisilBalistico.#ctor(System.Double,System.Double)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubMisilBalistico.#ctor(System.Double,System.Double,System.String)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubMisilBalistico.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubMisilBalistico</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubMisilBalistico.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubMisilBalistico.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubMisilBalistico.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubObjetivo">
+            <summary>Tipo stub de dsp086.Practica_05.Objetivo</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivo.#ctor(System.Double)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivo.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubObjetivo</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivo.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivo.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivo.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException">
+            <summary>Tipo stub de dsp086.Practica_05.ObjetivoDistanciaException</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.AttachBackingFieldToHelpLink">
+            <summary>Asocia delegados para emular StubObjetivoDistanciaException.HelpLink como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.AttachBackingFieldToSource">
+            <summary>Asocia delegados para emular StubObjetivoDistanciaException.Source como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.DataGet">
+            <summary>Establecer el stub de Exception.get_Data()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.GetBaseException">
+            <summary>Establecer el stub de Exception.GetBaseException()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.GetBaseException01">
+            <summary>Establecer el stub de Exception.GetBaseException()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Establecer el stub de Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>Establecer el stub de Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.HelpLinkGet">
+            <summary>Establecer el stub de Exception.get_HelpLink()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.HelpLinkSetString">
+            <summary>Establecer el stub de Exception.set_HelpLink(String value)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubObjetivoDistanciaException</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.MessageGet">
+            <summary>Establecer el stub de Exception.get_Message()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.SourceGet">
+            <summary>Establecer el stub de Exception.get_Source()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.SourceSetString">
+            <summary>Establecer el stub de Exception.set_Source(String value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.StackTraceGet">
+            <summary>Establecer el stub de Exception.get_StackTrace()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.ToString">
+            <summary>Establecer el stub de Exception.ToString()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.ToString01">
+            <summary>Establecer el stub de Exception.ToString()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.Data">
+            <summary>Establecer el stub de Exception.get_Data()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.HelpLink">
+            <summary>Establecer el stub de Exception.get_HelpLink()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.Message">
+            <summary>Establecer el stub de Exception.get_Message()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.Source">
+            <summary>Establecer el stub de Exception.get_Source()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubObjetivoDistanciaException.StackTrace">
+            <summary>Establecer el stub de Exception.get_StackTrace()</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubPartida">
+            <summary>Tipo stub de dsp086.Practica_05.Partida</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubPartida.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubPartida.#ctor(dsp086.Practica_05.Usuario)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubPartida.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubPartida</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubPartida.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubPartida.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubPartida.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubTiroAlBlancoFactory">
+            <summary>Tipo stub de dsp086.Practica_05.TiroAlBlancoFactory</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubTiroAlBlancoFactory.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubTiroAlBlancoFactory.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubTiroAlBlancoFactory</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubTiroAlBlancoFactory.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubTiroAlBlancoFactory.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubTiroAlBlancoFactory.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubUsuario">
+            <summary>Tipo stub de dsp086.Practica_05.Usuario</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubUsuario.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubUsuario.#ctor(System.String)">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubUsuario.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubUsuario</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubUsuario.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubUsuario.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubUsuario.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:dsp086.Practica_05.Fakes.StubVelocidadMisilException">
+            <summary>Tipo stub de dsp086.Practica_05.VelocidadMisilException</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubVelocidadMisilException.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubVelocidadMisilException.AttachBackingFieldToHelpLink">
+            <summary>Asocia delegados para emular StubVelocidadMisilException.HelpLink como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubVelocidadMisilException.AttachBackingFieldToSource">
+            <summary>Asocia delegados para emular StubVelocidadMisilException.Source como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.DataGet">
+            <summary>Establecer el stub de Exception.get_Data()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubVelocidadMisilException.GetBaseException">
+            <summary>Establecer el stub de Exception.GetBaseException()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.GetBaseException01">
+            <summary>Establecer el stub de Exception.GetBaseException()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubVelocidadMisilException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Establecer el stub de Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>Establecer el stub de Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.HelpLinkGet">
+            <summary>Establecer el stub de Exception.get_HelpLink()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.HelpLinkSetString">
+            <summary>Establecer el stub de Exception.set_HelpLink(String value)</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubVelocidadMisilException.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubVelocidadMisilException</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.MessageGet">
+            <summary>Establecer el stub de Exception.get_Message()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.SourceGet">
+            <summary>Establecer el stub de Exception.get_Source()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.SourceSetString">
+            <summary>Establecer el stub de Exception.set_Source(String value)</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.StackTraceGet">
+            <summary>Establecer el stub de Exception.get_StackTrace()</summary>
+        </member>
+        <member name="M:dsp086.Practica_05.Fakes.StubVelocidadMisilException.ToString">
+            <summary>Establecer el stub de Exception.ToString()</summary>
+        </member>
+        <member name="F:dsp086.Practica_05.Fakes.StubVelocidadMisilException.ToString01">
+            <summary>Establecer el stub de Exception.ToString()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubVelocidadMisilException.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubVelocidadMisilException.Data">
+            <summary>Establecer el stub de Exception.get_Data()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubVelocidadMisilException.HelpLink">
+            <summary>Establecer el stub de Exception.get_HelpLink()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubVelocidadMisilException.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubVelocidadMisilException.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubVelocidadMisilException.Message">
+            <summary>Establecer el stub de Exception.get_Message()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubVelocidadMisilException.Source">
+            <summary>Establecer el stub de Exception.get_Source()</summary>
+        </member>
+        <member name="P:dsp086.Practica_05.Fakes.StubVelocidadMisilException.StackTrace">
+            <summary>Establecer el stub de Exception.get_StackTrace()</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,130 @@
+@charset "utf-8";
+@import url("font-awesome.min.css");
+@import url("http://fonts.googleapis.com/css?family=Oleo+Script:400|Open+Sans:300,300italic,600,600italic,800");
+
+body {
+	
+	background-color: #949494;
+	background-image: url("../img/adminStyle/LoginBG.png");
+	background-repeat:no-repeat;
+	/*background-size:contain;
+	background-position:center;*/
+	z-index:1;
+}
+
+
+/***********************************
+**SecureLogin
+************************************/
+
+#secLoginLabel{
+	
+	
+	background: rgba(255,175,75,1);
+	background: -moz-linear-gradient(top, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,175,75,1)), color-stop(100%, rgba(255,146,10,1)));
+	background: -webkit-linear-gradient(top, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffaf4b', endColorstr='#ff920a', GradientType=0 );
+	border-radius: 19px 19px 19px 19px;
+	-moz-border-radius: 19px 19px 19px 19px;
+	-webkit-border-radius: 19px 19px 19px 19px;
+	border: 5px outset #969696;
+	
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+	font-size: 45px;
+	color: white;
+	font-style: bold;
+	font-variant: small-caps;
+	font-weight: 100;
+	line-height: 49.5px;
+	
+	
+}
+
+	
+
+
+#adminSec input:focus {
+	outline:none;
+}
+
+#adminAuth{
+	min-width: 600px;
+	width: 65%;
+	margin-left: 15%;
+	margin-top: 15%;
+	text-align: center;
+	background: rgba(0,0,0,0.8);
+	background: -moz-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0.8)), color-stop(100%, rgba(0,0,0,0.5)));
+	background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 100%);
+	background: -o-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 100%);
+	background: -ms-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 100%);
+	background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000', GradientType=0 );
+	border-radius: 19px 19px 19px 19px;
+	-moz-border-radius: 19px 19px 19px 19px;
+	-webkit-border-radius: 19px 19px 19px 19px;
+	border: 5px outset #969696;
+}
+
+input, textarea, select, button {
+	border: none;
+	width: auto;
+	heigh: auto;
+	min-width : 445px;
+  min-height : 74px;
+  margin: 0;
+	background: url("../img/adminStyle/LoginInput.png");"
+	background-size: 100% 100%;
+  -webkit-box-sizing: border-box; /* For legacy WebKit based browsers */
+     -moz-box-sizing: border-box; /* For legacy (Firefox <29) Gecko based browsers */
+          box-sizing: border-box;
+	
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+	font-size: 55px;
+	color: white;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 100%;
+	line-height: 49.5px;
+}
+
+#adminSec:hover{
+	background: url("../img/adminStyle/LoginButton.png");"
+	color: white;
+}
+
+
+/*
+#adminPwd {
+	outline:none;
+	background: url("../img/adminStyle/LoginInput.png");"
+	border:none;
+	width: 445px;
+  height: 74px;
+}
+*/
+#adminSec{
+	border:none;
+	background: url("../img/adminStyle/LoginButtonOrange.png");"
+	outline:none;
+	padding: 10px 10px;
+  margin: 10px 10px;
+  width: 459px;
+  height: 85px;
+  display: block;
+  font-size: 18px;
+  border-radius: 0px;
+  
+  font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+	font-size: 45px;
+	color: black;
+	font-style: bold;
+	font-variant: small-caps;
+	font-weight: 100;
+	line-height: 49.5px;
+}

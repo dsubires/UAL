@@ -1,0 +1,10 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.Fakes.xml
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.Fakes.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.Fakes.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\TiroAlBlancoModel.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\f.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\TiroAlBlancoModel.Fakes.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\TiroAlBlanco\TiroAlBlancoTest\obj\Debug\Fakes\tabm\o\TiroAlBlancoModel.Fakes.pdb

@@ -1,0 +1,11 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\obj\Debug\RecorridoSecuenciaTest.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\bin\Debug\RecorridoSecuenciaTest.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\bin\Debug\RecorridoSecuenciaTest.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\bin\Debug\IUsuarioView.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\bin\Debug\RecorridoSecuencia.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\bin\Debug\UsuarioView.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\bin\Debug\RecorridoSecuencia.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\bin\Debug\IUsuarioView.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\bin\Debug\UsuarioView.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\obj\Debug\RecorridoSecuenciaTest.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica03\RecorridoSecuenciaTest\obj\Debug\RecorridoSecuenciaTest.pdb

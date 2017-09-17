@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiroAlBlancoConsolaApp", "Practica_05\TiroAlBlancoConsolaApp.csproj", "{731B5B9F-ABEB-48AC-A3E0-6254637F7C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiroAlBlancoModel", "TiroAlBlancoModel\TiroAlBlancoModel.csproj", "{676532CC-D7F7-4122-9464-F2C9A80C9CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiroAlBlancoTest", "TiroAlBlancoTest\TiroAlBlancoTest.csproj", "{89EC8040-6736-4EAC-A584-AF451C25C0BD}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2014-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Practica_05\\TiroAlBlancoConsolaApp.csproj
+		SccProjectName1 = Practica_05
+		SccLocalPath1 = Practica_05
+		SccProjectUniqueName2 = TiroAlBlancoModel\\TiroAlBlancoModel.csproj
+		SccProjectName2 = TiroAlBlancoModel
+		SccLocalPath2 = TiroAlBlancoModel
+		SccProjectUniqueName3 = TiroAlBlancoTest\\TiroAlBlancoTest.csproj
+		SccProjectName3 = TiroAlBlancoTest
+		SccLocalPath3 = TiroAlBlancoTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731B5B9F-ABEB-48AC-A3E0-6254637F7C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731B5B9F-ABEB-48AC-A3E0-6254637F7C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731B5B9F-ABEB-48AC-A3E0-6254637F7C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731B5B9F-ABEB-48AC-A3E0-6254637F7C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676532CC-D7F7-4122-9464-F2C9A80C9CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676532CC-D7F7-4122-9464-F2C9A80C9CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676532CC-D7F7-4122-9464-F2C9A80C9CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676532CC-D7F7-4122-9464-F2C9A80C9CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EC8040-6736-4EAC-A584-AF451C25C0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EC8040-6736-4EAC-A584-AF451C25C0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EC8040-6736-4EAC-A584-AF451C25C0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EC8040-6736-4EAC-A584-AF451C25C0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

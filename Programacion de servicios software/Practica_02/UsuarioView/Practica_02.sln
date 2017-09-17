@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsuarioView", "UsuarioView.csproj", "{A679F7C0-3FE3-478F-83BD-351BA9621EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IUsuarioView", "IUsuarioView\IUsuarioView.csproj", "{113D0668-5D43-4F73-A04A-6434F837B360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestComparabilidadUsuarioView", "..\TestComparabilidadUsuarioView\TestComparabilidadUsuarioView.csproj", "{3D3B54DA-30F3-4C0F-BC7B-35D4CCADA0E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDiccionarioUsuarioView", "TestDiccionarioUsuarioView\TestDiccionarioUsuarioView.csproj", "{6D76CE17-18C5-4851-847D-D2AF2F4254B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHashTables", "TestHashTables\TestHashTables.csproj", "{FA9B18F9-A684-41FE-B6FD-AC93A61BDC3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestIgualdadUsuarioView", "TestIgualdadUsuarioView\TestIgualdadUsuarioView.csproj", "{1589E296-AED4-4EAC-B6ED-11736715036F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestListaGenericas", "TestListaGenericas\TestListaGenericas.csproj", "{6718BEEE-75FE-4439-B105-F5A5E9307EE4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2014-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UsuarioView.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = IUsuarioView\\IUsuarioView.csproj
+		SccProjectName2 = IUsuarioView
+		SccLocalPath2 = IUsuarioView
+		SccProjectUniqueName3 = ..\\TestComparabilidadUsuarioView\\TestComparabilidadUsuarioView.csproj
+		SccProjectName3 = ../TestComparabilidadUsuarioView
+		SccLocalPath3 = ..\\TestComparabilidadUsuarioView
+		SccProjectUniqueName4 = TestDiccionarioUsuarioView\\TestDiccionarioUsuarioView.csproj
+		SccProjectName4 = TestDiccionarioUsuarioView
+		SccLocalPath4 = TestDiccionarioUsuarioView
+		SccProjectUniqueName5 = TestHashTables\\TestHashTables.csproj
+		SccProjectName5 = TestHashTables
+		SccLocalPath5 = TestHashTables
+		SccProjectUniqueName6 = TestIgualdadUsuarioView\\TestIgualdadUsuarioView.csproj
+		SccProjectName6 = TestIgualdadUsuarioView
+		SccLocalPath6 = TestIgualdadUsuarioView
+		SccProjectUniqueName7 = TestListaGenericas\\TestListaGenericas.csproj
+		SccProjectName7 = TestListaGenericas
+		SccLocalPath7 = TestListaGenericas
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A679F7C0-3FE3-478F-83BD-351BA9621EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A679F7C0-3FE3-478F-83BD-351BA9621EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A679F7C0-3FE3-478F-83BD-351BA9621EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A679F7C0-3FE3-478F-83BD-351BA9621EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113D0668-5D43-4F73-A04A-6434F837B360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113D0668-5D43-4F73-A04A-6434F837B360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113D0668-5D43-4F73-A04A-6434F837B360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113D0668-5D43-4F73-A04A-6434F837B360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3B54DA-30F3-4C0F-BC7B-35D4CCADA0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3B54DA-30F3-4C0F-BC7B-35D4CCADA0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3B54DA-30F3-4C0F-BC7B-35D4CCADA0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3B54DA-30F3-4C0F-BC7B-35D4CCADA0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D76CE17-18C5-4851-847D-D2AF2F4254B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D76CE17-18C5-4851-847D-D2AF2F4254B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D76CE17-18C5-4851-847D-D2AF2F4254B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D76CE17-18C5-4851-847D-D2AF2F4254B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9B18F9-A684-41FE-B6FD-AC93A61BDC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9B18F9-A684-41FE-B6FD-AC93A61BDC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9B18F9-A684-41FE-B6FD-AC93A61BDC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9B18F9-A684-41FE-B6FD-AC93A61BDC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1589E296-AED4-4EAC-B6ED-11736715036F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1589E296-AED4-4EAC-B6ED-11736715036F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1589E296-AED4-4EAC-B6ED-11736715036F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1589E296-AED4-4EAC-B6ED-11736715036F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6718BEEE-75FE-4439-B105-F5A5E9307EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6718BEEE-75FE-4439-B105-F5A5E9307EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6718BEEE-75FE-4439-B105-F5A5E9307EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6718BEEE-75FE-4439-B105-F5A5E9307EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

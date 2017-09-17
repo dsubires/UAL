@@ -1,0 +1,5 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos\bin\Debug\EstructurasDatos.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos\bin\Debug\EstructurasDatos.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos\obj\Debug\EstructurasDatos.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos\obj\Debug\EstructurasDatos.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_Pila\EstructurasDatos\obj\Debug\EstructurasDatos.pdb

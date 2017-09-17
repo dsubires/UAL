@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace dsp086.Practica_03
+{
+    public class EnumeradorAscendente<T> : IEnumerator<T> where T : IComparable<T>
+    {
+
+        private Coleccion<T> coleccion;
+        private int indice;
+        private ComparadorPropiedad<T> comparador;
+
+      /*  public EnumeradorAscendente(Coleccion<T> col){
+            coleccion = new Coleccion<T>();
+            comparador = new ComparadorPropiedad(); 
+
+        }*/
+
+        public EnumeradorAscendente(IEnumerable<T> secuencia, string propiedad)
+        {
+          //  this.Usuarios = Usuarios;
+          //  this.p = p;
+            coleccion = new Coleccion<T>();
+            comparador = new ComparadorPropiedad<T>(propiedad);
+            foreach(T t in secuencia)
+                coleccion.Add(t);
+            coleccion.Sort(comparador);
+            indice = -1;
+        }
+
+        public T Current
+        {
+            get { return coleccion[indice]; }
+        }
+
+        public void Dispose()
+        {
+            throw new NotImplementedException();
+        }
+
+        object System.Collections.IEnumerator.Current
+        {
+            get { return Current; }
+        }
+
+        public bool MoveNext()
+        {
+            indice++;
+            if (coleccion.Count() < indice)
+                return false;
+            return true;
+        }
+
+        public void Reset()
+        {
+            indice = -1;
+        }
+    }
+}

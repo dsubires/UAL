@@ -1,0 +1,24 @@
+NOTAS P3
+___________________________________
+
+Valores de entrada: tamaño bloque, ancho calles, numero calles, numero avenidas y valores de segmentacion
+Salida: 			lista en formato texto con el número de intercambiadores, la distancia del circuito realizado y los numeros de identificacion de los intercambiadores en el orden en que se han de visitar
+
+El algoritmo en cuestión ha de ejecutarse- aunque puede requerir algunas modificaciones - para cada segmento de intercambiadores
+El punto de partida del segmento1 es el taller, el del segmento2 es el punto final del segmento 1, sucesivamente
+Se trata de un caso especial de un problema más general, indicarlo analizando sus caracteristicas especiales
+
+
+
+
+
+ALGORITMO GENERAL
+
+generarCalles() //
+asigarUbicaciónIntercambiadores() //
+calcularDistanciaIntercambiadores()  // matriz adyacencias --> generarTablaL
+segmentarListasPorcentajeCaida() //
+calcularRecorridoCadaListaConPuntoPartida() //
+
+
+

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Practica_09\Exceptions.csproj", "{825F5EE1-6E47-480F-8766-CA299864038B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementacionXML", "ImplementacionXML\ImplementacionXML.csproj", "{01E0D9C0-E25D-490B-BBED-439E9B3B2CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Principal.csproj", "{CA30941A-1101-4236-84C7-FC493A350153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXML", "TestXML\TestXML.csproj", "{7FC4A02F-2492-4967-86C6-4C10BFE1789F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.214.150.139:8080/tfs/2014-pss-alumnos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Practica_09\\Exceptions.csproj
+		SccProjectName1 = Practica_09
+		SccLocalPath1 = Practica_09
+		SccProjectUniqueName2 = ImplementacionXML\\ImplementacionXML.csproj
+		SccProjectName2 = ImplementacionXML
+		SccLocalPath2 = ImplementacionXML
+		SccProjectUniqueName3 = Principal\\Principal.csproj
+		SccProjectName3 = Principal
+		SccLocalPath3 = Principal
+		SccProjectUniqueName4 = TestXML\\TestXML.csproj
+		SccProjectName4 = TestXML
+		SccLocalPath4 = TestXML
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{825F5EE1-6E47-480F-8766-CA299864038B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825F5EE1-6E47-480F-8766-CA299864038B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825F5EE1-6E47-480F-8766-CA299864038B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825F5EE1-6E47-480F-8766-CA299864038B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E0D9C0-E25D-490B-BBED-439E9B3B2CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E0D9C0-E25D-490B-BBED-439E9B3B2CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E0D9C0-E25D-490B-BBED-439E9B3B2CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E0D9C0-E25D-490B-BBED-439E9B3B2CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA30941A-1101-4236-84C7-FC493A350153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA30941A-1101-4236-84C7-FC493A350153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA30941A-1101-4236-84C7-FC493A350153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA30941A-1101-4236-84C7-FC493A350153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC4A02F-2492-4967-86C6-4C10BFE1789F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC4A02F-2492-4967-86C6-4C10BFE1789F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC4A02F-2492-4967-86C6-4C10BFE1789F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC4A02F-2492-4967-86C6-4C10BFE1789F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

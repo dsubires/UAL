@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang=”es-ES”>
+
+	<head> 
+		<meta charset="UTF-8" />
+        <meta name=”description” content=”Web de articulos de segunda mano”	/>
+        <meta name=”keywords” content=”HTML5, CSS3, Javascript”	/>
+        <meta name="viewport" content="width=device-width">
+        <title>Buy-Buy Webshop</title>
+        
+		<link href="./css/styleDemo.css" rel="stylesheet" type="text/css">
+		<link href="./css/login.css" rel="stylesheet" type="text/css">
+		
+    	<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script language="javascript">
+			<!--Ajusta el tamaño de un iframe al de su contenido interior para evitar scroll-->
+				function autofitIframe(id){
+					if (!window.opera && document.all && document.getElementById){
+						id.style.height=id.contentWindow.document.body.scrollHeight;
+					} else if(document.getElementById) {
+						id.style.height=id.contentDocument.body.scrollHeight+50+"px";
+					}
+				}
+			
+				function redimensionar() {
+					autofitIframe("pframe");
+					alert('Ejemplo de alerta al redimensionar');
+    				}
+		</script>
+    
+    </head>
+	    
+    <body>
+		
+        <header id="headerPag">
+			<img src="./img/Logo.png" alt="Buy-Buy"/>		
+			<div id="tituloPag">
+			
+				<h1>
+					Buy-Buy Auctions
+				</h1>
+				<h2>
+					Tu tienda de 2ª mano
+				</h2>
+			</div>
+			
+			<div id="barsHeader">
+					<h2><a href="#" id="loginform">Login</a> | <a href="./html/registro.html" target="pframe">Register</a></h2>
+					<div class="login">
+					  <div class="arrow-up"></div>
+						  <div class="formholder">
+							<div class="randompad">
+							   <fieldset>
+								 <label name="email">Email</label>
+								 <input type="email" value="example@example.com" />
+								 <label name="password">Password</label>
+								 <input type="password" />
+								 <input type="submit" value="Login" />
+				 
+								</fieldset>
+							</div>
+						</div>
+					</div>
+			</div>
+			<script src="js/login.js"></script>
+        </header>
+        
+        <nav id="mainMenu">
+        	<ul>
+            	<li><a href="./html/principal.html" target="pframe">Inicio</a></li>
+                <li><a href="#">Catálogo</a></li>
+                <li><a href="#">Noticias</a></li>
+                <li><a href="./html/vender.html" target="pframe">Quiero Vender</a></li>
+				<li><a href="#">Quiénes Somos</a></li>
+				<li><a href="./html/contacto.html" target="pframe">Contacto</a></li>
+            </ul>
+			
+			<form id="searchBar">
+					<input id="sBarText" type="text" placeholder="Buscar en la página" required>
+					<input id="sBarButton" type="button" value="Search">
+			</form>
+        </nav>
+        
+        
+		<section id="mainContent" onresize="autofitIframe(pframe);">	
+			
+			<script language="JavaScript">
+				
+			</script>
+			
+			<iframe src="./html/principal.html" id="pframe" name="pframe" frameborder="0" allowfullscreen onload="autofitIframe(this);" scrolling=yes ></iframe>
+				
+				
+			<aside id="col_der">
+				<h2>
+					Noticias
+				</h2>
+                <article id="articulo">
+					<h3>
+						Titular de la noticia
+					</h3>
+					<p>
+                        Un dia vi una vaca vestida de uniforme. 
+                        Un dia vi una vaca vestida de uniforme. 
+                        Un dia vi una vaca vestida de uniforme. 
+                        Un dia vi una vaca vestida de uniforme.
+                        Un dia vi una vaca vestida de uniforme. 
+                        Un dia vi una vaca vestida de uniforme. 
+                        Un dia vi una vaca vestida de uniforme. 
+                        Un dia vi una vaca vestida de uniforme. 
+                        Un dia vi una vaca vestida de uniforme.
+                        Un dia vi una vaca vestida de uniforme.
+                        Un dia vi una vaca vestida de uniforme. 
+                        Un dia vi una vaca vestida de uniforme. 	
+					</p>
+				</article>
+				<article id="articulo">
+           			<h3>
+						Titular de la noticia
+					</h3>
+					<p>
+                        Esto es una prueba. Esto es una prueba.
+                        Esto es una prueba. Esto es una prueba.
+                        Esto es una prueba. Esto es una prueba.
+                        Esto es una prueba. Esto es una prueba.
+                        Esto es una prueba. Esto es una prueba.
+                        Esto es una prueba. Esto es una prueba.
+                        Esto es una prueba. Esto es una prueba.
+                    </p>	
+				</article>
+            </aside>
+        </section>
+        
+        
+        <footer id="pie">    
+        	Derechos Reservados &copy; 2015
+        </footer> 
+        
+    </body>
+    
+</html>

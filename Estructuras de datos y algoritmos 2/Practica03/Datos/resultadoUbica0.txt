@@ -1,0 +1,6 @@
+Número de averías: 3
+Distancia solucion: 80.0
+Recorrido: 
+832 9.340381980144395 C2A12
+714 9.256139278904486 A1C8
+713 9.06139278904486 A1C1

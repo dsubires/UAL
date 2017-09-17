@@ -1,0 +1,100 @@
+/******************
+**Mi Cuenta
+*******************/
+div{
+	text-align: center;
+}
+
+
+#dataBox{
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+	width:  495px;
+	height: 180px;
+	border-radius: 16px 16px 16px 16px;
+	background-image: url("../img/adminClients.png");
+	background-size: contain;
+	
+}
+#dataBox div{
+	width: 100%;
+    height: 100%;
+	border-radius: 16px 16px 16px 16px;
+	background-color: orange;
+	opacity: 0;
+	/* Firefox */
+    -moz-transition-property: opacity;
+    -moz-transition-duration: 0.5s;
+    -moz-transition-delay: 0s;
+    
+   
+}
+
+#dataBox div:hover{
+	opacity: 0.90;
+}
+
+#dataBox div a {
+	position: center;
+	font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+	color: black;
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 170px;
+	opacity: 1;
+	text-decoration: none;
+}
+
+#dataBox div a:hover{
+	color: white;
+}
+
+#favsBox{
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+	width:  495px;
+	height: 180px;
+	border-radius: 16px 16px 16px 16px;
+	background-image: url("../img/adminProducts.png");
+	background-size: contain;
+	
+}
+
+#favsBox div{
+	width: 100%;
+    height: 100%;
+	border-radius: 16px 16px 16px 16px;
+	background-color: orange;
+	opacity: 0;
+	/* Firefox */
+    -moz-transition-property: opacity;
+    -moz-transition-duration: 0.5s;
+    -moz-transition-delay: 0s;
+    
+   
+}
+
+#favsBox div:hover{
+	opacity: 0.90;
+}
+
+#favsBox div a {
+	position: center;
+	font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+	color: black;
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 170px;
+	opacity: 1;
+	text-decoration: none;
+}
+
+#favsBox div a:hover{
+	color: white;
+}

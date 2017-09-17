@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>Registro Usuarios</title>
+	 <style>
+	 .imgA{
+		position:relative;
+		float:left;
+		width:15%;
+		margin-top:2%;
+		margin-left:2%;
+		padding:5px;
+	}
+	fieldset span{
+		position:relative;
+		
+		margin-left:2%;
+		padding:5px;
+	}
+	
+	fieldset span h3{
+		position:relative;
+		float:left;
+
+		
+		padding:5px;
+		
+	}
+	
+	fieldset h3 a{
+		text-decoration:none;
+		color:black;
+	}
+	
+	.noticia{
+		border-color:black;
+		border-style:solid;
+	}
+	.fav{
+		width:2%;
+		float:right;
+	}
+	.share{
+		width:2%;
+		float:right;
+	}
+	 </style>
+  </head>
+  <body>
+  <h2>Noticias:</h2>
+    <center>
+			<?php
+					include ('../db/conexion.php');
+					// enviamos consulta
+					$result = mysql_query("SELECT * FROM noticias");
+					if (!$result) {
+						die("Error en la consulta");
+					}
+					
+					// para cada fila, obtenemos los datos y los imprimimos con el formato oportuno
+					while($row = mysql_fetch_row($result))
+					{
+						$titulo = $row[1];
+						$descripcion = $row[2];
+						$imagen = $row[3];
+						$fecha = $row[4];
+						
+						echo "<fieldset class='noticia'>";
+						echo "<legend>$titulo</legend>";
+						echo "<img src='../images/noticias/$imagen' alt='$titulo' class='imgA'/><br/><span>";
+						echo "<span><h3><a href=''>$titulo</a></h3> <br/><br/><br/><br/>$descripcion</span><br/><br/><br/>";
+						echo "<a href=''><img src='../images/iconos/share.png' alt='compartir' class='share' /></a>";
+						echo "</fieldset>";
+					}
+					mysql_free_result($result);
+		?>		
+<!--			  <fieldset class="noticia">
+				<legend>Noticia 1</legend>
+				<img src="../images/iconos/noticia.png" alt="noticia" class="imgA"/><br/>
+				<span>
+				<h3><a href="">Noticia 1</a></h3> <br/><br/><br/><br/>
+						Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme.
+				</span><br/><br/><br/>
+				<a href=""><img src="../images/iconos/share.png" alt="compartir" class="share" /></a>
+			</fieldset>
+			  <fieldset class="noticia">
+				<legend>Noticia 2</legend>
+				<img src="../images/iconos/noticia.png" alt="noticia" class="imgA"/><br/>
+				<span>
+				<h3><a href="">Noticia 2</a></h3> <br/><br/><br/><br/>
+						Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme.
+				</span><br/><br/><br/>
+				<a href=""><img src="../images/iconos/share.png" alt="compartir" class="share" /></a>
+			</fieldset>
+			  <fieldset class="noticia">
+				<legend>Noticia 3</legend>
+				<img src="../images/iconos/noticia.png" alt="noticia" class="imgA"/><br/>
+				<span>
+				<h3><a href="">Noticia 3</a></h3> <br/><br/><br/><br/>
+						Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme.
+				</span><br/><br/><br/>
+				<a href=""><img src="../images/iconos/share.png" alt="compartir" class="share" /></a>
+			</fieldset>
+			  <fieldset class="noticia">
+				<legend>Noticia 4</legend>
+				<img src="../images/iconos/noticia.png" alt="noticia" class="imgA"/><br/>
+				<span>
+				<h3><a href="">Noticia 4</a></h3> <br/><br/><br/><br/>
+						Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme. Un dia vi una vaca vestida de uniforme.
+				</span><br/><br/><br/>
+				<a href=""><img src="../images/iconos/share.png" alt="compartir" class="share" /></a>
+			</fieldset>
+		-->							
+	</center>
+  </body>
+</html>

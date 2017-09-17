@@ -1,0 +1,370 @@
+Salida para mochila1.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:229 Valor:56 Peso:1]
+Objeto[Nombre:220 Valor:55 Peso:1]
+Objeto[Nombre:237 Valor:51 Peso:1]
+Objeto[Nombre:245 Valor:48 Peso:1]
+Objeto[Nombre:45 Valor:44 Peso:1]
+Objeto[Nombre:101 Valor:40 Peso:1]
+Objeto[Nombre:165 Valor:39 Peso:1]
+Objeto[Nombre:79 Valor:34 Peso:1]
+Objeto[Nombre:53 Valor:34 Peso:1]
+Objeto[Nombre:32 Valor:34 Peso:1]
+Objeto[Nombre:23 Valor:34 Peso:1]
+Numero objetos:11
+Valor total:469.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:245 Valor:48 Peso:1]
+Objeto[Nombre:237 Valor:51 Peso:1]
+Objeto[Nombre:229 Valor:56 Peso:1]
+Objeto[Nombre:220 Valor:55 Peso:1]
+Objeto[Nombre:165 Valor:39 Peso:1]
+Objeto[Nombre:101 Valor:40 Peso:1]
+Objeto[Nombre:79 Valor:34 Peso:1]
+Objeto[Nombre:53 Valor:34 Peso:1]
+Objeto[Nombre:45 Valor:44 Peso:1]
+Objeto[Nombre:32 Valor:34 Peso:1]
+Objeto[Nombre:23 Valor:34 Peso:1]
+Numero objetos:11
+Valor total:469.0 Peso total:11.0]
+
+Salida para mochila2.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:288 Valor:56 Peso:1]
+Objeto[Nombre:269 Valor:56 Peso:1]
+Objeto[Nombre:71 Valor:56 Peso:1]
+Objeto[Nombre:257 Valor:55 Peso:1]
+Objeto[Nombre:359 Valor:53 Peso:1]
+Objeto[Nombre:245 Valor:53 Peso:1]
+Objeto[Nombre:61 Valor:53 Peso:1]
+Objeto[Nombre:134 Valor:51 Peso:1]
+Objeto[Nombre:77 Valor:50 Peso:1]
+Objeto[Nombre:469 Valor:49 Peso:1]
+Objeto[Nombre:321 Valor:47 Peso:1]
+Numero objetos:11
+Valor total:579.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:469 Valor:49 Peso:1]
+Objeto[Nombre:359 Valor:53 Peso:1]
+Objeto[Nombre:321 Valor:47 Peso:1]
+Objeto[Nombre:288 Valor:56 Peso:1]
+Objeto[Nombre:269 Valor:56 Peso:1]
+Objeto[Nombre:257 Valor:55 Peso:1]
+Objeto[Nombre:245 Valor:53 Peso:1]
+Objeto[Nombre:134 Valor:51 Peso:1]
+Objeto[Nombre:77 Valor:50 Peso:1]
+Objeto[Nombre:71 Valor:56 Peso:1]
+Objeto[Nombre:61 Valor:53 Peso:1]
+Numero objetos:11
+Valor total:579.0 Peso total:11.0]
+
+Salida para mochila3.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:723 Valor:56 Peso:1]
+Objeto[Nombre:560 Valor:56 Peso:1]
+Objeto[Nombre:465 Valor:55 Peso:1]
+Objeto[Nombre:917 Valor:54 Peso:1]
+Objeto[Nombre:362 Valor:54 Peso:1]
+Objeto[Nombre:100 Valor:52 Peso:1]
+Objeto[Nombre:485 Valor:51 Peso:1]
+Objeto[Nombre:85 Valor:51 Peso:1]
+Objeto[Nombre:701 Valor:50 Peso:1]
+Objeto[Nombre:266 Valor:50 Peso:1]
+Objeto[Nombre:201 Valor:50 Peso:1]
+Numero objetos:11
+Valor total:579.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:917 Valor:54 Peso:1]
+Objeto[Nombre:723 Valor:56 Peso:1]
+Objeto[Nombre:701 Valor:50 Peso:1]
+Objeto[Nombre:560 Valor:56 Peso:1]
+Objeto[Nombre:485 Valor:51 Peso:1]
+Objeto[Nombre:465 Valor:55 Peso:1]
+Objeto[Nombre:362 Valor:54 Peso:1]
+Objeto[Nombre:266 Valor:50 Peso:1]
+Objeto[Nombre:201 Valor:50 Peso:1]
+Objeto[Nombre:100 Valor:52 Peso:1]
+Objeto[Nombre:85 Valor:51 Peso:1]
+Numero objetos:11
+Valor total:579.0 Peso total:11.0]
+
+Salida para mochila4.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:1183 Valor:56 Peso:1]
+Objeto[Nombre:719 Valor:56 Peso:1]
+Objeto[Nombre:1884 Valor:55 Peso:1]
+Objeto[Nombre:1316 Valor:55 Peso:1]
+Objeto[Nombre:1082 Valor:55 Peso:1]
+Objeto[Nombre:998 Valor:55 Peso:1]
+Objeto[Nombre:1416 Valor:54 Peso:1]
+Objeto[Nombre:1096 Valor:54 Peso:1]
+Objeto[Nombre:1672 Valor:53 Peso:1]
+Objeto[Nombre:897 Valor:53 Peso:1]
+Objeto[Nombre:859 Valor:53 Peso:1]
+Numero objetos:11
+Valor total:599.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:1884 Valor:55 Peso:1]
+Objeto[Nombre:1416 Valor:54 Peso:1]
+Objeto[Nombre:1316 Valor:55 Peso:1]
+Objeto[Nombre:1183 Valor:56 Peso:1]
+Objeto[Nombre:1096 Valor:54 Peso:1]
+Objeto[Nombre:1082 Valor:55 Peso:1]
+Objeto[Nombre:998 Valor:55 Peso:1]
+Objeto[Nombre:719 Valor:56 Peso:1]
+Objeto[Nombre:398 Valor:53 Peso:1]
+Objeto[Nombre:257 Valor:53 Peso:1]
+Objeto[Nombre:191 Valor:53 Peso:1]
+Numero objetos:11
+Valor total:599.0 Peso total:11.0]
+
+Salida para mochila5.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:4054 Valor:56 Peso:1]
+Objeto[Nombre:3131 Valor:56 Peso:1]
+Objeto[Nombre:2815 Valor:56 Peso:1]
+Objeto[Nombre:1103 Valor:56 Peso:1]
+Objeto[Nombre:533 Valor:56 Peso:1]
+Objeto[Nombre:11 Valor:56 Peso:1]
+Objeto[Nombre:3283 Valor:55 Peso:1]
+Objeto[Nombre:3207 Valor:55 Peso:1]
+Objeto[Nombre:2963 Valor:55 Peso:1]
+Objeto[Nombre:2953 Valor:55 Peso:1]
+Objeto[Nombre:2948 Valor:55 Peso:1]
+Numero objetos:11
+Valor total:611.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:4054 Valor:56 Peso:1]
+Objeto[Nombre:3131 Valor:56 Peso:1]
+Objeto[Nombre:2815 Valor:56 Peso:1]
+Objeto[Nombre:2779 Valor:55 Peso:1]
+Objeto[Nombre:2051 Valor:55 Peso:1]
+Objeto[Nombre:1439 Valor:55 Peso:1]
+Objeto[Nombre:1103 Valor:56 Peso:1]
+Objeto[Nombre:533 Valor:56 Peso:1]
+Objeto[Nombre:280 Valor:55 Peso:1]
+Objeto[Nombre:259 Valor:55 Peso:1]
+Objeto[Nombre:11 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:611.0 Peso total:11.0]
+
+Salida para mochila6.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:4750 Valor:56 Peso:1]
+Objeto[Nombre:4665 Valor:56 Peso:1]
+Objeto[Nombre:3298 Valor:56 Peso:1]
+Objeto[Nombre:2736 Valor:56 Peso:1]
+Objeto[Nombre:226 Valor:56 Peso:1]
+Objeto[Nombre:122 Valor:56 Peso:1]
+Objeto[Nombre:80 Valor:56 Peso:1]
+Objeto[Nombre:6392 Valor:55 Peso:1]
+Objeto[Nombre:6217 Valor:55 Peso:1]
+Objeto[Nombre:4276 Valor:55 Peso:1]
+Objeto[Nombre:4117 Valor:55 Peso:1]
+Numero objetos:11
+Valor total:612.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:4750 Valor:56 Peso:1]
+Objeto[Nombre:4665 Valor:56 Peso:1]
+Objeto[Nombre:3298 Valor:56 Peso:1]
+Objeto[Nombre:3176 Valor:55 Peso:1]
+Objeto[Nombre:2736 Valor:56 Peso:1]
+Objeto[Nombre:2728 Valor:55 Peso:1]
+Objeto[Nombre:1026 Valor:55 Peso:1]
+Objeto[Nombre:434 Valor:55 Peso:1]
+Objeto[Nombre:226 Valor:56 Peso:1]
+Objeto[Nombre:122 Valor:56 Peso:1]
+Objeto[Nombre:80 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:612.0 Peso total:11.0]
+
+Salida para mochila7.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:16199 Valor:56 Peso:1]
+Objeto[Nombre:14884 Valor:56 Peso:1]
+Objeto[Nombre:14623 Valor:56 Peso:1]
+Objeto[Nombre:14442 Valor:56 Peso:1]
+Objeto[Nombre:13805 Valor:56 Peso:1]
+Objeto[Nombre:12597 Valor:56 Peso:1]
+Objeto[Nombre:12519 Valor:56 Peso:1]
+Objeto[Nombre:11964 Valor:56 Peso:1]
+Objeto[Nombre:11129 Valor:56 Peso:1]
+Objeto[Nombre:9612 Valor:56 Peso:1]
+Objeto[Nombre:9243 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:616.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:4587 Valor:56 Peso:1]
+Objeto[Nombre:4325 Valor:56 Peso:1]
+Objeto[Nombre:3303 Valor:56 Peso:1]
+Objeto[Nombre:2398 Valor:56 Peso:1]
+Objeto[Nombre:2148 Valor:56 Peso:1]
+Objeto[Nombre:2111 Valor:56 Peso:1]
+Objeto[Nombre:1375 Valor:56 Peso:1]
+Objeto[Nombre:913 Valor:56 Peso:1]
+Objeto[Nombre:773 Valor:56 Peso:1]
+Objeto[Nombre:638 Valor:56 Peso:1]
+Objeto[Nombre:10 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:616.0 Peso total:11.0]
+
+Salida para mochila8.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:32360 Valor:56 Peso:1]
+Objeto[Nombre:32264 Valor:56 Peso:1]
+Objeto[Nombre:31410 Valor:56 Peso:1]
+Objeto[Nombre:30058 Valor:56 Peso:1]
+Objeto[Nombre:29828 Valor:56 Peso:1]
+Objeto[Nombre:29761 Valor:56 Peso:1]
+Objeto[Nombre:29590 Valor:56 Peso:1]
+Objeto[Nombre:28921 Valor:56 Peso:1]
+Objeto[Nombre:28885 Valor:56 Peso:1]
+Objeto[Nombre:28510 Valor:56 Peso:1]
+Objeto[Nombre:28260 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:616.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:10377 Valor:56 Peso:1]
+Objeto[Nombre:9311 Valor:56 Peso:1]
+Objeto[Nombre:8675 Valor:56 Peso:1]
+Objeto[Nombre:8076 Valor:56 Peso:1]
+Objeto[Nombre:8019 Valor:56 Peso:1]
+Objeto[Nombre:6934 Valor:56 Peso:1]
+Objeto[Nombre:5944 Valor:56 Peso:1]
+Objeto[Nombre:5021 Valor:56 Peso:1]
+Objeto[Nombre:2752 Valor:56 Peso:1]
+Objeto[Nombre:2200 Valor:56 Peso:1]
+Objeto[Nombre:5 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:616.0 Peso total:11.0]
+
+Salida para mochila9.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:65429 Valor:56 Peso:1]
+Objeto[Nombre:63966 Valor:56 Peso:1]
+Objeto[Nombre:63538 Valor:56 Peso:1]
+Objeto[Nombre:62390 Valor:56 Peso:1]
+Objeto[Nombre:62366 Valor:56 Peso:1]
+Objeto[Nombre:62306 Valor:56 Peso:1]
+Objeto[Nombre:61834 Valor:56 Peso:1]
+Objeto[Nombre:60631 Valor:56 Peso:1]
+Objeto[Nombre:59388 Valor:56 Peso:1]
+Objeto[Nombre:59104 Valor:56 Peso:1]
+Objeto[Nombre:58278 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:616.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:5380 Valor:56 Peso:1]
+Objeto[Nombre:5291 Valor:56 Peso:1]
+Objeto[Nombre:4990 Valor:56 Peso:1]
+Objeto[Nombre:4682 Valor:56 Peso:1]
+Objeto[Nombre:3980 Valor:56 Peso:1]
+Objeto[Nombre:2988 Valor:56 Peso:1]
+Objeto[Nombre:2783 Valor:56 Peso:1]
+Objeto[Nombre:1441 Valor:56 Peso:1]
+Objeto[Nombre:1064 Valor:56 Peso:1]
+Objeto[Nombre:724 Valor:56 Peso:1]
+Objeto[Nombre:327 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:616.0 Peso total:11.0]
+
+Salida para mochila10.txt
+
+Salida metodo Greedy
+
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:130048 Valor:56 Peso:1]
+Objeto[Nombre:129118 Valor:56 Peso:1]
+Objeto[Nombre:128760 Valor:56 Peso:1]
+Objeto[Nombre:128423 Valor:56 Peso:1]
+Objeto[Nombre:127954 Valor:56 Peso:1]
+Objeto[Nombre:125779 Valor:56 Peso:1]
+Objeto[Nombre:125612 Valor:56 Peso:1]
+Objeto[Nombre:123786 Valor:56 Peso:1]
+Objeto[Nombre:123742 Valor:56 Peso:1]
+Objeto[Nombre:123001 Valor:56 Peso:1]
+Objeto[Nombre:122412 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:616.0 Peso total:11.0]
+
+Salida metodo Programacion Dinamica
+[Contenido mochila
+Capacidad:11
+Objeto[Nombre:6283 Valor:56 Peso:1]
+Objeto[Nombre:5994 Valor:56 Peso:1]
+Objeto[Nombre:5430 Valor:56 Peso:1]
+Objeto[Nombre:5413 Valor:56 Peso:1]
+Objeto[Nombre:4499 Valor:56 Peso:1]
+Objeto[Nombre:3086 Valor:56 Peso:1]
+Objeto[Nombre:2455 Valor:56 Peso:1]
+Objeto[Nombre:1812 Valor:56 Peso:1]
+Objeto[Nombre:1353 Valor:56 Peso:1]
+Objeto[Nombre:754 Valor:56 Peso:1]
+Objeto[Nombre:605 Valor:56 Peso:1]
+Numero objetos:11
+Valor total:616.0 Peso total:11.0]
+

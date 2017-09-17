@@ -1,0 +1,9 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\obj\Debug\TestListaGenericas.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\bin\Debug\TestListaGenericas.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\bin\Debug\TestListaGenericas.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\bin\Debug\IUsuarioView.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\bin\Debug\UsuarioView.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\bin\Debug\IUsuarioView.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\bin\Debug\UsuarioView.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\obj\Debug\TestListaGenericas.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_02\UsuarioView\TestListaGenericas\obj\Debug\TestListaGenericas.pdb

@@ -1,0 +1,5 @@
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoClassLibrary\bin\Debug\BingoClassLibrary.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoClassLibrary\bin\Debug\BingoClassLibrary.pdb
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoClassLibrary\obj\Debug\BingoClassLibrary.csprojResolveAssemblyReference.cache
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoClassLibrary\obj\Debug\BingoClassLibrary.dll
+C:\TFS\GINEBRA\2015-PSS-ALUMNOS\Subires Parra David (dsp086)\Grupo Trabajo\Practica_06\BingoClassLibrary\obj\Debug\BingoClassLibrary.pdb
